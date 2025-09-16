@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://astreoninnovations.com/sitemap.xml
